@@ -1,0 +1,8 @@
+{
+ "appId": "com.fizzy.wallet",
+ "appName": "Fizzy Wallet",
+ "webDir": "www",
+ "android": {
+  "backgroundColor": "#0f0c24"
+ }
+}
