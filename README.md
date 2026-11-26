@@ -85,7 +85,7 @@ Suggestions and contributions are welcome.
 
 ## 📄 License
 
-No license has been specified yet. Add a `LICENSE` file and update this section before distributing or accepting reuse of the project.
+No license has been specified yet. Soon we add `LICENSE`
 
 ---
 
