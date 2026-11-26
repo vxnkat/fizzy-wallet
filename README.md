@@ -47,7 +47,7 @@ The dashboard brings together your card balance, overall financial progress, tod
 
 The screenshot below is included in this repository at `screenshots/dashboard.png`.
 
-![Fizzy Prime app dashboard](https://i.postimg.cc/fTtcpjr2/Screenshot-2026-11-26-202701.png)](https://postimg.cc/vcyx69Mf)
+![Fizzy Prime app dashboard](https://i.postimg.cc/fTtcpjr2/Screenshot-2026-11-26-202701.png)
 
 ## 🧰 Built With
 
